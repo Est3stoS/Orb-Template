@@ -1,0 +1,2 @@
+version: 2.1orbs:
+  aws-ecr: circleci/aws-ecr@8.2.1
